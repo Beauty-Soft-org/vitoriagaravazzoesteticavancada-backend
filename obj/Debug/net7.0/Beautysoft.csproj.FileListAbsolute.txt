@@ -1,0 +1,396 @@
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\appsettings.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.exe
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.deps.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\refint\Beautysoft.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\obj\Debug\net7.0\ref\Beautysoft.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nadia\source\repos\BeautysoftApi\Beautysoft\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\appsettings.Development.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\appsettings.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.exe
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.deps.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Beautysoft.pdb
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Azure.Core.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Azure.Identity.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\BCrypt.Net-Next.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Humanizer.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.CodeDom.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Projeto-Integrador-1-master\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets.build.json
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\staticwebassets.development.json
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\refint\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.pdb
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+F:\Downloads\Projeto-Integrador-1-master\obj\Debug\net7.0\ref\Beautysoft.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\appsettings.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.exe
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.deps.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.sourcelink.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.Up2Date
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\refint\Beautysoft.dll
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+C:\Users\nadia\source\repos\projeto-integrador-v2\obj\Debug\net7.0\ref\Beautysoft.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\appsettings.Development.json
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\appsettings.json
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.exe
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.deps.json
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Beautysoft.pdb
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Azure.Core.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Azure.Identity.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\BCrypt.Net-Next.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Humanizer.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.CodeDom.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Memory.Data.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\beautysoft-backend\projeto-integrador-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.pack.json
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.build.json
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\staticwebassets.development.json
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.dll
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\refint\Beautysoft.dll
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.pdb
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+F:\beautysoft-backend\projeto-integrador-v2\obj\Debug\net7.0\ref\Beautysoft.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\refint\Beautysoft.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.pdb
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\appsettings.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.exe
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.deps.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Beautysoft.pdb
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\ref\Beautysoft.dll

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\imagens\\baixados.jpeg",
+      "PackagePath": "staticwebassets\\imagens\\baixados.jpeg"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Beautysoft.props",
+      "PackagePath": "build\\Beautysoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Beautysoft.props",
+      "PackagePath": "buildMultiTargeting\\Beautysoft.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Beautysoft.props",
+      "PackagePath": "buildTransitive\\Beautysoft.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "9fzJVylS1uXDAtARxZ//h3jgQgXAz+SJiwYOCPI5A5o=",
+  "Source": "Beautysoft",
+  "BasePath": "_content/Beautysoft",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Beautysoft\\wwwroot",
+      "Source": "Beautysoft",
+      "ContentRoot": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\imagens\\baixados.jpeg",
+      "SourceId": "Beautysoft",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "RelativePath": "imagens/baixados.jpeg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\baixados.jpeg"
+    }
+  ]
+}

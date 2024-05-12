@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\controllers\\perfilusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:controllers\\perfilusuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:controllers\\usuarioscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\services\\perfilusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:services\\perfilusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\services\\interfaces\\iperfilusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:services\\interfaces\\iperfilusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|c:\\users\\nadia\\source\\repos\\projeto-integrador-v2\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E51BEB50-1124-427B-94C5-E839F56AFDD9}|Beautysoft.csproj|solutionrelative:services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuariosController.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Controllers\\UsuariosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuariosController.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Controllers\\UsuariosController.cs",
+              "RelativeToolTip": "Controllers\\UsuariosController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowGAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:00:14.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PerfilUsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Controllers\\PerfilUsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PerfilUsuarioController.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Controllers\\PerfilUsuarioController.cs",
+              "RelativeToolTip": "Controllers\\PerfilUsuarioController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T16:00:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABoAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:57:01.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "Services\\UsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:52:01.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IPerfilUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\Interfaces\\IPerfilUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\Interfaces\\IPerfilUsuarioService.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\Interfaces\\IPerfilUsuarioService.cs",
+              "RelativeToolTip": "Services\\Interfaces\\IPerfilUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:32:57.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PerfilUsuarioService.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\PerfilUsuarioService.cs",
+              "RelativeDocumentMoniker": "Services\\PerfilUsuarioService.cs",
+              "ToolTip": "C:\\Users\\nadia\\source\\repos\\projeto-integrador-v2\\Services\\PerfilUsuarioService.cs",
+              "RelativeToolTip": "Services\\PerfilUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-10T15:32:26.069Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
