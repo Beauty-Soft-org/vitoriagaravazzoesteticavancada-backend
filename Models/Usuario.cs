@@ -12,6 +12,7 @@
         public string EnderecoEmail { get; set; } = string.Empty;
         public string SenhaHash { get; set; } = string.Empty;
         public string ConfirmSenhaHash { get; set; } = string.Empty;
+        public string ResetaToken { get; set; } = string.Empty;
 
     }
 }

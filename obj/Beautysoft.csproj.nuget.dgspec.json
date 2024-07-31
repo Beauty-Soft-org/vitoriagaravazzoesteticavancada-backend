@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\Beautysoft.csproj": {}
+    "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\Beautysoft.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\Beautysoft.csproj": {
+    "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\Beautysoft.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\Beautysoft.csproj",
+        "projectUniqueName": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\Beautysoft.csproj",
         "projectName": "Beautysoft",
-        "projectPath": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\Beautysoft.csproj",
-        "packagesPath": "C:\\Users\\Jessi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\obj\\",
+        "projectPath": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\Beautysoft.csproj",
+        "packagesPath": "C:\\Users\\lucas\\.nuget\\packages\\",
+        "outputPath": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jessi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\lucas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -44,6 +44,10 @@
               "target": "Package",
               "version": "[4.0.3, )"
             },
+            "MailKit": {
+              "target": "Package",
+              "version": "[4.6.0, )"
+            },
             "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
               "version": "[7.0.11, )"
@@ -51,6 +55,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[7.0.11, )"
+            },
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[5.2.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
@@ -104,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -394,3 +394,194 @@ C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC
 C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
 C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
 C:\Users\Jessi\OneDrive\Documentos\Análise e Desenvolvimento de Sistemas - IFSC\7º Semestre\PROJETO INTEGRADOR II\BackEnd-PI\obj\Debug\net7.0\ref\Beautysoft.dll
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.sourcelink.json
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\refint\Beautysoft.dll
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\appsettings.json
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.exe
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.deps.json
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Beautysoft.pdb
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\BCrypt.Net-Next.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Humanizer.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.csproj.Up2Date
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+C:\Users\nadia\Source\Repos\backend-v2\obj\Debug\net7.0\ref\Beautysoft.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\Source\Repos\backend-v2\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\MailKit.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\MimeKit.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\System.Formats.Asn1.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\nadia\source\repos\backend-v2\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.csproj.AssemblyReference.cache
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.AssemblyInfoInputs.cache
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.AssemblyInfo.cs
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.csproj.CoreCompileInputs.cache
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cs
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\refint\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.pdb
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\appsettings.Development.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\appsettings.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.staticwebassets.runtime.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.exe
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.deps.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.runtimeconfig.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Beautysoft.pdb
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Azure.Core.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Azure.Identity.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\BCrypt.Net-Next.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\BouncyCastle.Cryptography.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Humanizer.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\MailKit.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.OpenApi.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\MimeKit.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Mono.TextTemplating.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.CodeDom.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Formats.Asn1.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Memory.Data.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Runtime.Caching.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Security.Permissions.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\System.Windows.Extensions.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\de\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\es\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\fr\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\it\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\ja\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\ko\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\ru\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net7.0\System.Security.Cryptography.Pkcs.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets\msbuild.Beautysoft.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets\msbuild.build.Beautysoft.props
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Beautysoft.props
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Beautysoft.props
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets.pack.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets.build.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\staticwebassets.development.json
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\scopedcss\bundle\Beautysoft.styles.css
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.csproj.CopyComplete
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\Beautysoft.genruntimeconfig.cache
+F:\Downloads\Projeto-Integrador-v2-main (1)\Projeto-Integrador-v2-main\obj\Debug\net7.0\ref\Beautysoft.dll

@@ -1,23 +1,17 @@
-using BeautySoftAPI.Data;
-using BeautySoftAPI.Services.Interfaces;
-using Microsoft.EntityFrameworkCore;
 using Beautysoft.Services.Interfaces;
 using Beautysoft.Services;
+using BeautySoftAPI.Data;
+using BeautySoftAPI.Services.Interfaces;
 using BeautySoftAPI.Services;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
-using Microsoft.IdentityModel.Tokens;
-
-using System.Text;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.FileProviders;
-using Microsoft.EntityFrameworkCore.Metadata.Internal;
+using Microsoft.IdentityModel.Tokens;
+using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
-
 builder.Services.AddControllers();
-
-// Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 builder.Services.AddDirectoryBrowser();
@@ -33,6 +27,8 @@ builder.Services.AddScoped<IVoucherService, VoucherService>();
 builder.Services.AddScoped<IMensagemTemporariaService, MensagemTemporariaService>();
 builder.Services.AddScoped<IAgendamentoService, AgendamentoService>();
 builder.Services.AddScoped<IPerfilUsuarioService, PerfilUsuarioService>();
+builder.Services.AddScoped<EmailService>();
+builder.Services.AddScoped<IHorariosService, HorariosService>();
 
 builder.Services.AddHttpContextAccessor();
 
@@ -46,19 +42,18 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
             ValidateIssuer = false,
             ValidateAudience = false
         };
-
     });
 
 builder.Services.AddCors(options => options.AddPolicy(name: "NgOrigins",
     policy =>
     {
-        policy.WithOrigins("http://localhost:3000").AllowAnyMethod().AllowAnyHeader();
+        policy.AllowAnyOrigin()
+              .AllowAnyMethod()
+              .AllowAnyHeader();
     }));
-
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -67,8 +62,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseCors("NgOrigins");
 
-
-app.UseStaticFiles();
+app.UseHttpsRedirection();
 app.UseStaticFiles();
 app.UseDirectoryBrowser(new DirectoryBrowserOptions
 {
@@ -76,11 +70,7 @@ app.UseDirectoryBrowser(new DirectoryBrowserOptions
     RequestPath = "/imagens"
 });
 
-
-app.UseHttpsRedirection();
-
 app.UseAuthentication();
-
 app.UseAuthorization();
 
 app.MapControllers();

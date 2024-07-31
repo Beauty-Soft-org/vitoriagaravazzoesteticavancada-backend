@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "9fzJVylS1uXDAtARxZ//h3jgQgXAz+SJiwYOCPI5A5o=",
+  "Hash": "EOy/M8bBmsH+LH8r67IbTiVRLVqZflXctIOTqPOMVzs=",
   "Source": "Beautysoft",
   "BasePath": "_content/Beautysoft",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Beautysoft\\wwwroot",
       "Source": "Beautysoft",
-      "ContentRoot": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\",
+      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\",
       "BasePath": "_content/Beautysoft",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\imagens\\baixados.jpeg",
+      "Identity": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\imagens\\baixados.jpeg",
       "SourceId": "Beautysoft",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\",
+      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\",
       "BasePath": "_content/Beautysoft",
       "RelativePath": "imagens/baixados.jpeg",
       "AssetKind": "All",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\imagens\\baixados.jpeg"
+    },
+    {
+      "Identity": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\imagens\\ImgDBS.png",
+      "SourceId": "Beautysoft",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\",
+      "BasePath": "_content/Beautysoft",
+      "RelativePath": "imagens/ImgDBS.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\imagens\\ImgDBS.png"
     }
   ]
 }

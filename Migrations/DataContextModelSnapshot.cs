@@ -53,6 +53,10 @@ namespace Beautysoft.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("ResetaToken")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
                     b.Property<string>("SenhaHash")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -106,6 +110,38 @@ namespace Beautysoft.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("Agendamentos");
+                });
+
+            modelBuilder.Entity("Beautysoft.Models.Horarios", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<DateTime>("Data")
+                        .HasColumnType("datetime2");
+
+                    b.Property<string>("HorarioFimPrimeiroPeriodo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HorarioFimSegundoPeriodo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HorarioInicioPrimeiroPeriodo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<string>("HorarioInicioSegundoPeriodo")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("Horarios");
                 });
 
             modelBuilder.Entity("Beautysoft.Models.MensagemTemporaria", b =>

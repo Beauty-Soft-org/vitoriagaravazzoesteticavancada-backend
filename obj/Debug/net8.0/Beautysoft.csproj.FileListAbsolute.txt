@@ -1,0 +1,7 @@
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.csproj.AssemblyReference.cache
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.AssemblyInfoInputs.cache
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.AssemblyInfo.cs
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.csproj.CoreCompileInputs.cache
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nadia\source\repos\backend-v2\obj\Debug\net8.0\Beautysoft.sourcelink.json

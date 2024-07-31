@@ -3,6 +3,10 @@ using Beautysoft.Models;
 using Beautysoft.Services.Interfaces;
 using BeautySoftAPI.Data;
 using Microsoft.EntityFrameworkCore;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Threading.Tasks;
 
 namespace Beautysoft.Services
 {
@@ -38,10 +42,9 @@ namespace Beautysoft.Services
             catch (Exception ex)
             {
                 Console.WriteLine($"Erro ao cadastrar agendamento: {ex.Message}");
-                throw; 
+                throw;
             }
         }
-
 
         public async Task<List<AgendamentoDto>> ObterTodosAgendamentos()
         {
@@ -117,6 +120,45 @@ namespace Beautysoft.Services
             await _context.SaveChangesAsync();
 
             return true;
+        }
+
+        public async Task<List<AgendamentoDto>> ObterAgendamentosFiltrados(string? nome, DateTime? dataInicial, DateTime? dataFinal)
+        {
+            var query = _context.Agendamentos.AsQueryable();
+
+            if (!string.IsNullOrEmpty(nome))
+            {
+                query = query.Where(a => a.Nome.Contains(nome));
+            }
+
+            if (dataInicial.HasValue && dataFinal.HasValue)
+            {
+                query = query.Where(a => a.DataHoraAgendada.Date >= dataInicial.Value.Date && a.DataHoraAgendada.Date <= dataFinal.Value.Date);
+            }
+            else if (dataInicial.HasValue)
+            {
+                query = query.Where(a => a.DataHoraAgendada.Date >= dataInicial.Value.Date);
+            }
+            else if (dataFinal.HasValue)
+            {
+                query = query.Where(a => a.DataHoraAgendada.Date <= dataFinal.Value.Date);
+            }
+
+            var agendamentos = await query.ToListAsync();
+
+            var agendamentosDto = agendamentos.Select(a => new AgendamentoDto
+            {
+                Id = a.Id,
+                DataHoraAgendada = a.DataHoraAgendada,
+                Email = a.Email,
+                Nome = a.Nome,
+                Descricao = a.Descricao,
+                Tempo = a.Tempo,
+                Valor = a.Valor,
+                TipoProcedimento = a.TipoProcedimento
+            }).ToList();
+
+            return agendamentosDto;
         }
     }
 }

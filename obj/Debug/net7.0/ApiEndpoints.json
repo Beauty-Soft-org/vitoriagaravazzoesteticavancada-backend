@@ -249,15 +249,31 @@
   },
   {
     "ContainingType": "Beautysoft.Controllers.PerfilUsuarioController",
+    "Method": "CadastrarPerfil",
+    "RelativePath": "api/PerfilUsuario",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "perfilUsuario",
+        "Type": "Beautysoft.Models.PerfilUsuario",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Beautysoft.Controllers.PerfilUsuarioController",
     "Method": "BuscarPerfilUsuarioPorId",
-    "RelativePath": "api/PerfilUsuario/{id}",
+    "RelativePath": "api/PerfilUsuario/{email}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Int32",
+        "Name": "email",
+        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -437,6 +453,22 @@
   },
   {
     "ContainingType": "BeautySoftAPI.Controllers.UsuariosController",
+    "Method": "ResetarSenha",
+    "RelativePath": "api/Usuarios",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Beautysoft.DTOs.ResetarSenhaDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BeautySoftAPI.Controllers.UsuariosController",
     "Method": "BuscarUsuarios",
     "RelativePath": "api/Usuarios",
     "HttpMethod": "GET",
@@ -520,8 +552,29 @@
   },
   {
     "ContainingType": "BeautySoftAPI.Controllers.UsuariosController",
+    "Method": "BuscarUsuarioPorEmail",
+    "RelativePath": "api/Usuarios/email/{email}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "model",
+        "Type": "Beautysoft.DTOs.ResetarSenhaDto",
+        "IsRequired": true
+      },
+      {
+        "Name": "email",
+        "Type": "",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "BeautySoftAPI.Controllers.UsuariosController",
     "Method": "Login",
-    "RelativePath": "api/Usuarios/login",
+    "RelativePath": "api/Usuarios/Login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -537,7 +590,7 @@
   {
     "ContainingType": "BeautySoftAPI.Controllers.UsuariosController",
     "Method": "RegistrarUsuario",
-    "RelativePath": "api/Usuarios/Register",
+    "RelativePath": "api/Usuarios/Registrar",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,

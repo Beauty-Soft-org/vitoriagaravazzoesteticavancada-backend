@@ -1,5 +1,4 @@
 ﻿using Beautysoft.DTOs;
-using Beautysoft.Models;  // Certifique-se de importar o namespace correto para a classe Agendamento
 using Beautysoft.Services.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 using System;
@@ -64,6 +63,7 @@ namespace Beautysoft.Controllers
                 return BadRequest(ex.Message);
             }
         }
+
         [HttpPut("{id}")]
         public async Task<ActionResult<AgendamentoDto>> AtualizarAgendamento(int id, [FromBody] AgendamentoDto agendamento)
         {
@@ -93,6 +93,29 @@ namespace Beautysoft.Controllers
                     return NotFound();
 
                 return NoContent();
+            }
+            catch (Exception ex)
+            {
+                return BadRequest(ex.Message);
+            }
+        }
+
+        [HttpGet("filtrar")]
+        public async Task<ActionResult<List<AgendamentoDto>>> FiltrarAgendamentos(
+            [FromQuery] string? nome,
+            [FromQuery] DateTime? dataInicial,
+            [FromQuery] DateTime? dataFinal)
+        {
+            try
+            {
+                var agendamentos = await _agendamentoService.ObterAgendamentosFiltrados(nome, dataInicial, dataFinal);
+
+                if (agendamentos == null || agendamentos.Count == 0)
+                {
+                    return NotFound("Nenhum agendamento encontrado com os filtros fornecidos.");
+                }
+
+                return Ok(agendamentos);
             }
             catch (Exception ex)
             {

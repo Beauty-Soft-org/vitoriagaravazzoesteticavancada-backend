@@ -4,6 +4,7 @@
     <ActiveDebugProfile>https</ActiveDebugProfile>
     <Controller_SelectedScaffolderID>ApiControllerEmptyScaffolder</Controller_SelectedScaffolderID>
     <Controller_SelectedScaffolderCategoryPath>root/Common/Api</Controller_SelectedScaffolderCategoryPath>
+    <NameOfLastUsedPublishProfile>C:\Users\nadia\source\repos\backend-v2\Properties\PublishProfiles\registry.hub.docker.com_nadiacastro.pubxml</NameOfLastUsedPublishProfile>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>

@@ -1,7 +1,11 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Jessi\\OneDrive\\Documentos\\Análise e Desenvolvimento de Sistemas - IFSC\\7º Semestre\\PROJETO INTEGRADOR II\\BackEnd-PI\\wwwroot\\imagens\\baixados.jpeg",
+      "Id": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\imagens\\ImgDBS.png",
+      "PackagePath": "staticwebassets\\imagens\\ImgDBS.png"
+    },
+    {
+      "Id": "F:\\Downloads\\Projeto-Integrador-v2-main (1)\\Projeto-Integrador-v2-main\\wwwroot\\imagens\\baixados.jpeg",
       "PackagePath": "staticwebassets\\imagens\\baixados.jpeg"
     },
     {

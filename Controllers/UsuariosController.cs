@@ -7,6 +7,7 @@ using System.Text;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.IdentityModel.Tokens;
 using Beautysoft.DTOs;
+using Beautysoft.Services;
 
 namespace BeautySoftAPI.Controllers
 {
@@ -18,20 +19,66 @@ namespace BeautySoftAPI.Controllers
 
         private readonly IConfiguration _config;
 
-        public UsuariosController(IUsuarioService usuarioService, IConfiguration configuration)
+        private readonly EmailService _emailService;
+
+        public UsuariosController(IUsuarioService usuarioService, IConfiguration configuration, EmailService emailService)
         {
             _usuarioService = usuarioService;
             _config = configuration;
+            _emailService = emailService;
         }
 
 
-        [HttpPost("Register")]
+        [HttpPost("Registrar")]
         public async Task<ActionResult<Usuario>> RegistrarUsuario([FromBody] RegistroDto request)
         {
             await _usuarioService.RegistrarUsuarioAsync(request);
+
+            // Enviar email de Verificação
+            var subject = "Confirme seu email";
+            var body = $"Olá {request.NomeUsuario},\n\nPor favor, confirme seu email clicando no link a seguir: <a href=\"\">Confirmar Email</a>";
+            await _emailService.SendEmailAsync(request.EnderecoEmail, subject, body);
+
             return Ok(request);
         }
-        [HttpPost("login")]
+        [HttpPost("email/{email}")]
+        public async Task<IActionResult> BuscarUsuarioPorEmail([FromBody] ResetarSenhaDto model)
+        {
+            var user = await _usuarioService.BuscarUsuarioPorEmailAsync(model.EnderecoEmail);
+
+            if (user == null)
+                return NotFound("Usuário não encontrado.");
+
+            // Gere um token de redefinição de senha
+            if (user == null)
+                return Unauthorized();
+
+            var token = GerarToken(user);
+
+            return Ok(new
+            {
+                Status = user.Status,
+                Email = user.EnderecoEmail,
+                Token = token
+            });
+
+            // Aqui você pode adicionar um serviço de email para enviar o token de redefinição para o usuário
+            // await _emailService.SendPasswordResetEmail(user.Email, resetToken);
+        }
+        [HttpPost]
+        public async Task<IActionResult> ResetarSenha([FromBody] ResetarSenhaDto model)
+        {
+            var resetTokenIsValid = await _usuarioService.ValidaReseteToken(model.EnderecoEmail, model.Token);
+
+            if (!resetTokenIsValid)
+                return BadRequest("Token de redefinição de senha inválido.");
+
+            await _usuarioService.ResetarSenha(model.EnderecoEmail, model.NovaSenha);
+
+            return Ok("Senha redefinida com sucesso.");
+        }
+
+        [HttpPost("Login")]
         public async Task<IActionResult> Login([FromBody] LoginDto model)
         {
             var user = await _usuarioService.AutenticarUsuario(model.EnderecoEmail, model.Senha);
@@ -72,6 +119,8 @@ namespace BeautySoftAPI.Controllers
             var jwt = new JwtSecurityTokenHandler().WriteToken(token);
             return jwt;
         }
+        
+
         [HttpGet]
         public async Task<ActionResult<List<Usuario>>> BuscarUsuarios()
         {
